@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  deal-bot:
+    build: .
+    container_name: affiliate_deal_bot
+    restart: unless-stopped
+    env_file: .env
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    environment:
+      - TZ=Asia/Kolkata

@@ -1,0 +1,24 @@
+2026-03-22 16:59:49,862 [INFO] src.amazon_scraper: Amazon: 57 unique deals scraped
+2026-03-22 16:59:58,900 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 16:59:58,903 [INFO] apscheduler.scheduler: Added job "BotScheduler.run_cycle" to job store "default"
+2026-03-22 16:59:58,904 [INFO] apscheduler.scheduler: Scheduler started
+2026-03-22 17:03:45,576 [WARNING] src.flipkart_fetcher: Flipkart credentials not set. Using demo Flipkart deals.
+2026-03-22 17:03:59,826 [INFO] src.amazon_scraper: Amazon: 57 unique deals scraped
+2026-03-22 17:04:05,072 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 17:04:05,078 [INFO] apscheduler.scheduler: Added job "BotScheduler.run_cycle" to job store "default"
+2026-03-22 17:04:05,079 [INFO] apscheduler.scheduler: Scheduler started
+2026-03-22 17:11:19,040 [WARNING] src.flipkart_fetcher: Flipkart credentials not set. Using demo Flipkart deals.
+2026-03-22 17:11:33,657 [INFO] src.amazon_scraper: Amazon: 57 unique deals scraped
+2026-03-22 17:11:40,100 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 17:11:40,106 [INFO] apscheduler.scheduler: Added job "BotScheduler.run_cycle" to job store "default"
+2026-03-22 17:11:40,106 [INFO] apscheduler.scheduler: Scheduler started
+2026-03-22 17:12:33,603 [WARNING] src.flipkart_fetcher: Flipkart credentials not set. Using demo Flipkart deals.
+2026-03-22 17:12:48,675 [INFO] src.amazon_scraper: Amazon: 58 unique deals scraped
+2026-03-22 17:12:53,914 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 17:12:53,919 [INFO] apscheduler.scheduler: Added job "BotScheduler.run_cycle" to job store "default"
+2026-03-22 17:12:53,920 [INFO] apscheduler.scheduler: Scheduler started
+2026-03-22 17:13:14,094 [WARNING] src.flipkart_fetcher: Flipkart credentials not set. Using demo Flipkart deals.
+2026-03-22 17:13:30,082 [INFO] src.amazon_scraper: Amazon: 56 unique deals scraped
+2026-03-22 17:13:36,588 [INFO] apscheduler.scheduler: Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-03-22 17:13:36,593 [INFO] apscheduler.scheduler: Added job "BotScheduler.run_cycle" to job store "default"
+2026-03-22 17:13:36,593 [INFO] apscheduler.scheduler: Scheduler started
